@@ -1,3 +1,2 @@
 st=str(input())
-n=len(st)
-print(st[n:0])
+print(st[::-1])
